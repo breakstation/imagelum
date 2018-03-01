@@ -1,0 +1,38 @@
+
+/**
+ * Quick and dirty CSS for example usage
+ *
+ */
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: center;
+    text-shadow: 0 0 3px #666;
+    line-height: 1.5;
+  }
+
+  .image_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .image_background {
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    width: 600px;
+    height: 350px;
+    color: white;
+  }
+
+  .content {
+    text-align: center;
+  }
