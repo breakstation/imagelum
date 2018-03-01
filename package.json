@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/brkstn/brkstn-imagelum.git"
+    "url": "git@github.com:breakstation/imagelum.git"
   },
   "author": "Troy Duckett",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/brkstn/brkstn-imagelum#readme"
+  "homepage": "git@github.com:breakstation/imagelum.git"
 }
